@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.consolerepairlondon.co.uk	TRUE	/	FALSE	1999999999	__cfduid	d64cd24fc59cc2e977c0ddb039e83185c1597398343
+www.consolerepairlondon.co.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d28434737a1f7f415609eaa320d42846b1597398352
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
